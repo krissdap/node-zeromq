@@ -1,0 +1,29 @@
+{
+  "name": "node-zeromq",
+  "version": "0.0.1",
+  "description": "POC ZeroMQ on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "ZeroMQ",
+    "0MQ",
+    "node"
+  ],
+  "author": "Krissda Prakalphakul",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "zeromq": "git+https://github.com/krissdap/zeromq.js.git#download-with-request"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krissdap/node-zeromq.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krissdap/node-zeromq/issues"
+  },
+  "homepage": "https://github.com/krissdap/node-zeromq#readme"
+}
